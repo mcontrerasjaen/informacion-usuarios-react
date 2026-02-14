@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    
+}
+
+.body {
+  background-color: beige;
+  margin: 0;
+  padding: 1px 0;; 
+}
